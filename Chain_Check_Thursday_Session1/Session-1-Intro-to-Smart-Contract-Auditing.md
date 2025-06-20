@@ -174,13 +174,13 @@ Web3 is trustless, permissionless, and high-stakes. Smart contracts:
 
 
 ## Case Studies
-[Rekt News](https://rekt.news) is a media outlet that reports on hacks, exploits, and failures in the Web3, DeFi (Decentralized Finance), and crypto ecosystem. 
+* [Rekt News](https://rekt.news) is a media outlet that reports on hacks, exploits, and failures in the Web3, DeFi (Decentralized Finance), and crypto ecosystem. 
 On 17th June, 2025, [Meta Pool's](https://www.metapool.app/) light was dimmed with approximately $142k worth of assets across Ethereum and bridged L2 chains (i.e., Optimism and Linea). 
 ### What is Meta Pool?
-Meta Pool is a multi-chain liquid staking protocol that offers liquid staking tokens across networks like Ethereum, NEAR, Solana, Aurora, ICP, and more, along with features such as Vote-to-Earn through DAO governance rewards, liquidity pools for earning yield, and a restaking aggregator on Solana. 
+* Meta Pool is a multi-chain liquid staking protocol that offers liquid staking tokens across networks like Ethereum, NEAR, Solana, Aurora, ICP, and more, along with features such as Vote-to-Earn through DAO governance rewards, liquidity pools for earning yield, and a restaking aggregator on Solana. 
 - Checkout there [documentation](https://docs.metapool.app/) for more info.
 ### Exploit Summary
- Meta Pool has a staking contract that is based on OpenZeppelin’s ERC4626. It allows users to stake ETH and recieve a share token called mpETH representing their stake. This staking contract includes a  `mint()` function that the attacker exploited to mint ~9701 mpETH without providing any ETH, since it has no checks assertain that ETH was transferred before minting mpETH. This exploit led to a total loss of about 56.35 ETH across Ethereum and Layer 2s (Optimism and Linea).
+* Meta Pool has a staking contract that is based on OpenZeppelin’s ERC4626. It allows users to stake ETH and recieve a share token called mpETH representing their stake. This staking contract includes a  `mint()` function that the attacker exploited to mint ~9701 mpETH without providing any ETH, since it has no checks assertain that ETH was transferred before minting mpETH. This exploit led to a total loss of about 56.35 ETH across Ethereum and Layer 2s (Optimism and Linea).
  
-[Here](https://docs.metapool.app/master/security/audits/ethereum) is a full post-mortem of the incident that has been completed in collaboration with Blocksec team.
+ - [Here](https://docs.metapool.app/master/security/audits/ethereum) is a full post-mortem of the incident that has been completed in collaboration with Blocksec team.
 
