@@ -129,7 +129,7 @@ Web3 is trustless, permissionless, and high-stakes. Smart contracts:
 3. **Reproduce Exploits**
 
 
-   * Fork hacks from [rekt.news](https://rekt.news), write Foundry tests to reproduce them.
+   * Fork hacks from [rekt.news](https://rekt.news) or [hacks DBs](#hacks-dbs), write Foundry tests to reproduce them.
      - [DefiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs/tree/main) has reproduced most of past DeFi hack incidents using Foundry. This helps you study scripts used then use them to try and recreate the hacks/exploits.
    * Shadow Auditing -  it's a technique where security researchers REDO a past completed contest, which already has its final report out.
       - The 2 main benefits of Shadow Auditing are:-
@@ -172,6 +172,16 @@ Web3 is trustless, permissionless, and high-stakes. Smart contracts:
    * Share GitHub reviews or test repos
    * Threat posts - on X
 
+## Hacks DBs
+- Collection of sites that compile past hacks.
+  1) [defillama.com/hacks](https://defillama.com/hacks)
+  2) [hacked.slowmist.io](https://hacked.slowmist.io/)
+  3) [Hacks Retro from officercia.eth](https://officercia.medium.com/retrospective-hacks-in-web3-cc83b8ee0e93)
+  4) [chainsec.io/defi-hacks](https://chainsec.io/defi-hacks/)
+  5) [defyield.xyz/rekt-database](https://defyield.xyz/rekt-database)
+  6) [web3rekt.com](https://www.web3rekt.com/)
+  7) [newsletter.blockthreat.io](https://newsletter.blockthreat.io/)
+  
 
 ## Case Studies
 * [Rekt News](https://rekt.news) is a media outlet that reports on hacks, exploits, and failures in the Web3, DeFi (Decentralized Finance), and crypto ecosystem. 
