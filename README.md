@@ -5,7 +5,7 @@
 NO| Chain Check Thursday - Web3Clubs Series      |    Description of Content Covered   |
 --|----------------------------------------------|-------------------------------------|
 1)| [Session-01](Chain_Check_Thursday_Session1/Session-1-Intro-to-Smart-Contract-Auditing.md) |Introduction to Smart Contract Auditing/Security Researching 101 |
-2)| [Session-02](Chain_Check_Thursday_Session2/Session-2-BUgs-Exploits-HiddenPitfalls.md)|Bugs, Exploits and Hidden Pitfalls in Smart Contracts|
+2)| [Session-02](Chain_Check_Thursday_Session2/Session-2-Bugs-Exploits-HiddenPitfalls.md) |Bugs, Exploits and Hidden Pitfalls in Smart Contracts|
 -----
 ## Key concepts covered in each Session.
 ### [Session-01](Chain_Check_Thursday_Session1/Session-1-Intro-to-Smart-Contract-Auditing.md) - Introduction to Smart Contract Auditing/Security Researching 101
@@ -19,5 +19,14 @@ NO| Chain Check Thursday - Web3Clubs Series      |    Description of Content Cov
 8) [Roadmap to Becoming a Smart Contract Auditor](Chain_Check_Thursday_Session1/Session-1-Intro-to-Smart-Contract-Auditing.md#roadmap-to-becoming-a-smart-contract-auditor)
 9) [Case Studies of a real life Hack](Chain_Check_Thursday_Session1/Session-1-Intro-to-Smart-Contract-Auditing.md#case-studies)
 
-### [Session-02](Chain_Check_Thursday_Session2/Session-2-BUgs-Exploits-HiddenPitfalls.md) - Bugs, Exploits and Hidden Pitfalls in Smart Contracts
-1)
+### [Session-02](Chain_Check_Thursday_Session2/Session-2-Bugs-Exploits-HiddenPitfalls.md) - Bugs, Exploits and Hidden Pitfalls in Smart Contracts
+1) [Reentrancy](Chain_Check_Thursday_Session2/Session-2-Bugs-Exploits-HiddenPitfalls.md#reentrancy)
+2) [Unprotected selfdestruct()](Chain_Check_Thursday_Session2/Session-2-Bugs-Exploits-HiddenPitfalls.md#unprotected-selfdestruct)
+3) [Incorrect State Transitions](Chain_Check_Thursday_Session2/Session-2-Bugs-Exploits-HiddenPitfalls.md#incorrect-state-transitions)
+4) [ Front-running Vulnerability](Chain_Check_Thursday_Session2/Session-2-Bugs-Exploits-HiddenPitfalls.md#front-running-vulnerability)
+5) [Incorrect Precision Handling](Chain_Check_Thursday_Session2/Session-2-Bugs-Exploits-HiddenPitfalls.md#incorrect-precision-handling)
+6) [Initialization of Proxy Contracts](Chain_Check_Thursday_Session2/Session-2-Bugs-Exploits-HiddenPitfalls.md#initialization-of-proxy-contracts)
+7) [Missing onlyOwner / Access Control](Chain_Check_Thursday_Session2/Session-2-Bugs-Exploits-HiddenPitfalls.md#missing-onlyOwneraccess-Control)
+8) [Role Escalation](Chain_Check_Thursday_Session2/Session-2-Bugs-Exploits-HiddenPitfalls.md#role-escalation)
+9) [Unbounded Loops](Chain_Check_Thursday_Session2/Session-2-Bugs-Exploits-HiddenPitfalls.md#unbounded-loops)
+10) [Griefing via DoS](Chain_Check_Thursday_Session2/Session-2-Bugs-Exploits-HiddenPitfalls.md#griefing-via-dos)
