@@ -5,7 +5,7 @@
 NO| Chain Check Thursday - Web3Clubs Series      |    Description of Content Covered   |
 --|----------------------------------------------|-------------------------------------|
 1)| [Session-01](Chain_Check_Thursday_Session1/Session-1-Intro-to-Smart-Contract-Auditing.md) |Introduction to Smart Contract Auditing/Security Researching 101 |
-  |                                              |                                     |
+2)| [Session-02](Chain_Check_Thursday_Session2/Session-2-BUgs-Exploits-HiddenPitfalls.md)|Bugs, Exploits and Hidden Pitfalls in Smart Contracts|
 -----
 ## Key concepts covered in each Session.
 ### [Session-01](Chain_Check_Thursday_Session1/Session-1-Intro-to-Smart-Contract-Auditing.md) - Introduction to Smart Contract Auditing/Security Researching 101
@@ -18,3 +18,6 @@ NO| Chain Check Thursday - Web3Clubs Series      |    Description of Content Cov
 7) [Structure of a Professional Audit Report](Chain_Check_Thursday_Session1/Session-1-Intro-to-Smart-Contract-Auditing.md#structure-of-a-professional-audit-report)
 8) [Roadmap to Becoming a Smart Contract Auditor](Chain_Check_Thursday_Session1/Session-1-Intro-to-Smart-Contract-Auditing.md#roadmap-to-becoming-a-smart-contract-auditor)
 9) [Case Studies of a real life Hack](Chain_Check_Thursday_Session1/Session-1-Intro-to-Smart-Contract-Auditing.md#case-studies)
+
+### [Session-02](Chain_Check_Thursday_Session2/Session-2-BUgs-Exploits-HiddenPitfalls.md) - Bugs, Exploits and Hidden Pitfalls in Smart Contracts
+1)
