@@ -145,6 +145,7 @@ Web3 is trustless, permissionless, and high-stakes. Smart contracts:
 
    * Use Slither, surya, audit wizard etc for analysis
    * Write fuzz tests in Foundry, Hardhat etc
+   * More tools can be found [here.](https://telegra.ph/ETHSec-Tools-02-13)
 
 5. **Join Audit Contests**
   
