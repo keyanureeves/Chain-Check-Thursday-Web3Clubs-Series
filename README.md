@@ -7,6 +7,7 @@ NO| Chain Check Thursday - Web3Clubs Series      |    Description of Content Cov
 1)| [Session-01](Chain_Check_Thursday_Session1/Session-1-Intro-to-Smart-Contract-Auditing.md) |Introduction to Smart Contract Auditing/Security Researching 101 |
 2)| [Session-02](Chain_Check_Thursday_Session2/Session-2-Bugs-Exploits-HiddenPitfalls.md) |Bugs, Exploits and Hidden Pitfalls in Smart Contracts|
 3)| [Session-03](Chain_Check_Thursday_Session3/Session-3-Bugs-Exploits-HiddenPitfalls-prt2.md)| Bugs, Exploits and Hidden Pitfalls in Smart Contracts Part2|
+4)| [Session-04](Chain_Check_Thursday_Session4/Tools-Techniques-Reports.md)| Tools, Techniques and Reports|
 -----
 ## Key concepts covered in each Session.
 ### [Session-01](Chain_Check_Thursday_Session1/Session-1-Intro-to-Smart-Contract-Auditing.md) - Introduction to Smart Contract Auditing/Security Researching 101
@@ -39,3 +40,9 @@ NO| Chain Check Thursday - Web3Clubs Series      |    Description of Content Cov
 4) [ABI Hash Collision](Chain_Check_Thursday_Session3/Session-3-Bugs-Exploits-HiddenPitfalls-prt2.md#4-abi-hash-collision)
 5) [Issues in Low-level calls](Chain_Check_Thursday_Session3/Session-3-Bugs-Exploits-HiddenPitfalls-prt2.md#5-issues-in-low-level-calls)
 6) [Overflow and Underflow in integers](Chain_Check_Thursday_Session3/Session-3-Bugs-Exploits-HiddenPitfalls-prt2.md#6-overflow-and-underflow-in-signed-and-unsigned-types)
+
+### [Session-04](Chain_Check_Thursday_Session4/Tools-Techniques-Reports.md) - Tools, Techniques and Reports.
+1) [Techniques used to identify bugs in smart contracts](Chain_Check_Thursday_Session4/Tools-Techniques-Reports.md#)
+2) [Static Analysis Tools](Chain_Check_Thursday_Session4/Tools-Techniques-Reports.md#static-analysis-tools)
+3) [Dynamic Analysis and Fuzzing Tools](Chain_Check_Thursday_Session4/Tools-Techniques-Reports.md#dynamic-analysis-and-fuzzing-tools)
+4) [Audit Workflow & Reporting](Chain_Check_Thursday_Session4/Tools-Techniques-Reports.md#audit-workflow-reporting#audit-workflow-reporting)
