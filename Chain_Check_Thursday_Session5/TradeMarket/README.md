@@ -57,9 +57,9 @@
 
 ## Set-up
 
-```bash
-git clone https://github.com/CodeHawks-Contests/2025-06-orderbook.git
+[Click here to download the zip file](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/ChainCheck-Security-Review-Team/Chain-Check-Thursday-Web3Clubs-Series/tree/main/Chain_Check_Thursday_Session5/TradeMarket)
 
+```bash
 forge install --no-git --no-commit Openzeppelin/openzeppelin-contracts
 
 forge build
